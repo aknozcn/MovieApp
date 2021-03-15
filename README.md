@@ -2,7 +2,7 @@
 
 Screen1             |  Screen2 | Screen3
 :-------------------------:|:-------------------------:|:-------------------------:
-![]()  |  ![]() |  ![]()
+![](https://raw.githubusercontent.com/aknozcn/MovieApp/main/Repository/application.gif)  |  ![]() |  ![]()
 
 ## Hakkında
 Bu proje [The Movie Database API](https://developers.themoviedb.org/3 "The Movie Database API") kullanılarak kişisel becerileri geliştirmek için tasarlanmıştır.
