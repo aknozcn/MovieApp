@@ -1,0 +1,24 @@
+PODS:
+  - FFPopup (1.1.4)
+  - Kingfisher (6.1.1)
+  - youtube-ios-player-helper (1.0.3)
+
+DEPENDENCIES:
+  - FFPopup
+  - Kingfisher
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - FFPopup
+    - Kingfisher
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  FFPopup: 3bec8070665b892d8f54f2acaca447fdccc7f30b
+  Kingfisher: 676d63307fbef6ed5d5ed400bff36983480d7500
+  youtube-ios-player-helper: 0185c57db23c80d63d6ca11251d110abb8a4ca61
+
+PODFILE CHECKSUM: 72c3144dfa2a7af173bf4acabac26b16130f8d7b
+
+COCOAPODS: 1.10.0
