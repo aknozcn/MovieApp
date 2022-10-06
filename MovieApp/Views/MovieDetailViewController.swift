@@ -94,7 +94,7 @@ extension MovieDetailViewController: MovieDetailViewModelDelegate {
         movieImageView.kf.setImage(with: URL(string: Environment.imageURL + (viewModel.movieDetail?.backdropPath ?? "")))
         Loading.shared.hide()
 
-        FirebaseAnalyticsManager.init().logMovieDetail(movieDetail: viewModel.movieDetail!)
+        FirebaseAnalyticsManager.init().logMovieDetail(movieDetail: viewModel.movieDetail)
     }
 
     func didFetchedSimilarMovies() {
