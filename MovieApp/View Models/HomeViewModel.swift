@@ -98,7 +98,6 @@ class HomeViewModel {
             case .failure(let error):
                 print("HomeViewModel getMovies \(error)")
             }
-            self.delegate?.didFetchMovies()
         }
     }
 }
